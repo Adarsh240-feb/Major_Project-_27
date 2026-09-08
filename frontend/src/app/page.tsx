@@ -115,7 +115,7 @@ export default function Home() {
               <div className="w-12 h-12 rounded-2xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center mb-6">
                 <Activity className="w-6 h-6" />
               </div>
-              <h3 className="text-xl font-bold text-white mb-3">Morphological Analytics</h3>
+              <h3 className="text-xl font-bold text-white mb-3">Quantitative Analytics</h3>
               <p className="text-slate-400 text-sm leading-relaxed">
                 Calculates precise lesion area measurements (mm²) and automatically categorizes tumor stage severity.
               </p>
